@@ -1,0 +1,22 @@
+
+body {
+    background-color: #028090;
+    font-family: 'Roboto', sans-serif;
+  }
+
+section {
+  background-color: aquamarine;
+  border: 2px solid blue;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+  /* span {
+    background-color: white;
+    border: 5px solid black;
+  } */
+  
+ 
