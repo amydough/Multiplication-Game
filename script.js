@@ -6,8 +6,8 @@ y = 0
 
 
 function displayMath() {
-    x = Math.floor(Math.random() * 13);
-    y = Math.floor(Math.random() * 13);
+    x = Math.floor(Math.random() * (13 - 2) + 2);
+    y = Math.floor(Math.random() * (13 - 2) + 2);
     document.getElementById("num1").innerHTML = x;
     document.getElementById("num2").innerHTML = y;
     document.getElementById("answ").innerHTML = " ";
